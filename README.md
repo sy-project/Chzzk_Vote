@@ -7,6 +7,10 @@
 
 아래는 Anaconda가 정상 설치되었다는 가정하의 튜토리얼입니다.
 
+## Anaconda 설치법
+1. [Anaconda Repo](https://repo.anaconda.com/miniconda/) 에서 `Miniconda3-latest-*운영체제` 에 맞는 버전 다운 및 실행
+2. 환경변수 설정 > [튜토리얼](https://supermemi.tistory.com/entry/python-3-%EB%AF%B8%EB%8B%88%EC%BD%98%EB%8B%A4miniconda%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+
 ## 설치 - 명령어 실행
     # 코드 다운로드
     $ git clone https://github.com/sy-project/Chzzk_Vote.git .
