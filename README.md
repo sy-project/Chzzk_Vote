@@ -7,23 +7,25 @@
 
 아래는 Anaconda가 정상 설치되었다는 가정하의 튜토리얼입니다.
 
-## 설치
-    # 코드 다운로드 - git 명령어
+## 설치 - 명령어 실행
+    # 코드 다운로드
     $ git clone https://github.com/sy-project/Chzzk_Vote.git .
     $ cd Chzzk_Vote
-    # 코드 다운로드 - zip 압축파일
-    `< > Code` 클릭 > `Download ZIP` 클릭
 
-    # 가상환경 설치 - 명령어 실행방법
+    # 가상환경 설치
     $ conda create -n chzzk python=3.9
     $ conda activate chzzk
 
-    # 패키지 설치 - 명령어 실행방법
+    # 패키지 설치
     $ pip install -r requirements.txt
+    
+## 설치 - bat 파일 실행
+    # 코드 다운로드 - zip 압축파일
+    `< > Code` 클릭 > `Download ZIP` 클릭
     
     # 가상환경 & 패키지 설치 - bat 파일
     `install.bat` 실행
-
+    
 ## 준비하기
 
 1. 웹 브라우저에서 네이버를 키고 개발자 도구(F12)를 킵니다.
